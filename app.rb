@@ -7,7 +7,7 @@ class App < Sinatra::Base
   end 
   
   get '/name' do 
-    "My name is Cece!"
+    "My name is Cece."
   end 
   
   get '/hometown' do 
